@@ -1,1 +1,1 @@
-# MayoClinic_StripAI_Kaggle_Competition
+# Mayo Clinic: STRIP AI
