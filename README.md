@@ -1,6 +1,7 @@
 # Mayo Clinic: STRIP AI
 
-![](https://www.azosensors.com/images/Article_Images/ImageForArticle_2526_16496703634166450.jpg)
+<img src="https://www.azosensors.com/images/Article_Images/ImageForArticle_2526_16496703634166450.jpg" width="1024" height="424">
+
 ---
 
 ## Objective:
