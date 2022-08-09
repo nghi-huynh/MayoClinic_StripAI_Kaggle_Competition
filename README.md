@@ -1,8 +1,9 @@
 # Mayo Clinic: STRIP AI
 
+![](https://www.azosensors.com/images/Article_Images/ImageForArticle_2526_16496703634166450.jpg)
 ---
 
-**Objective:**
+## Objective:
 
 Predict a probability for each of the two blood clot etiology classes in acute stroke. 2 types:
 * Cardioembolic (CE)
@@ -10,7 +11,7 @@ Predict a probability for each of the two blood clot etiology classes in acute s
 
 ---
 
-**Methodology:**
+## Methodology:
 
 **1. Pre-processing:**
   * Imbalanced classes (CE and LAA): -> downsampling or upsampling or data augmentation, synthetic oversampling such as re-sampling from the data for a minority class
