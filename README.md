@@ -1,6 +1,6 @@
 # Mayo Clinic: STRIP AI
 
-<img src="https://www.azosensors.com/images/Article_Images/ImageForArticle_2526_16496703634166450.jpg" width="1024" height="424">
+<img src="https://storage.googleapis.com/kaggle-competitions/kaggle/37333/logos/header.png?t=2022-06-29-00-47-20">
 
 ---
 
