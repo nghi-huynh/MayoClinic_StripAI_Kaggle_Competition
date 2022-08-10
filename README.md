@@ -1,6 +1,6 @@
 # Mayo Clinic: STRIP AI
 
-<img src="https://storage.googleapis.com/kaggle-competitions/kaggle/37333/logos/header.png?t=2022-06-29-00-47-20">
+<img src="https://drive.google.com/uc?id=1Xqf0NCEMGOFbfEZNtTXQHmMp63g3Qvko">
 
 ---
 
